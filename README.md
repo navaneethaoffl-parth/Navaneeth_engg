@@ -37,11 +37,5 @@ Right now, my primary goal is to build an unbreakable foundation in fundamental 
 Looking ahead, I plan to pursue specialized post-graduate studies and focused research in Digital Signal Processing (DSP) & Embedded VLSI Systems. Ultimately, I want to work at the intersection of acoustic design, smart hardware, and real-time processing, designing systems that make sound and communication technology smarter and more accessible.
 
 
-🛠️ What You'll Find in My Repositories:
-├── Semester-1-Notes/      # KTU course materials, summaries, and revision guides
-├── Lab-Work/              # C programming, lab assignments, and practical code
-├── Side-Projects/         # Mini hardware experiments, microcontrollers, and audio tests
-└── README.md
 🤝 Let's Connect!
-
 Thanks for visiting my page! Feel free to browse through my repositories, star anything you find interesting, or reach out if you share similar interests and want to collaborate on a project.
