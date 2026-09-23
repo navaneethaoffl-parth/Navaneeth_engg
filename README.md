@@ -39,3 +39,4 @@ Looking ahead, I plan to pursue specialized post-graduate studies and focused re
 
 🤝 Let's Connect!
 Thanks for visiting my page! Feel free to browse through my repositories, star anything you find interesting, or reach out if you share similar interests and want to collaborate on a project.
+https://www.linkedin.com/in/navaneeth-a-2b3618438/
